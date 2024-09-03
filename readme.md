@@ -27,5 +27,5 @@ To get started with `lua_encrypt`, follow these steps:
 Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/yourusername/lua_encrypt.git
+git clone https://github.com/MehrbodBlade/Lua-Encrypt.git
 cd lua_encrypt
