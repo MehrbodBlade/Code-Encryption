@@ -1,6 +1,6 @@
 # Lua-Encrypt
 
-Lua-Encrypt is a powerful Python tool designed to encrypt and decrypt Lua files using AES-256 encryption. This ensures that your Lua scripts remain secure, protecting them from unauthorized access and tampering.
+Lua-Encrypt is a powerful Python tool designed to encrypt and decrypt Lua files using AES-256 encryption. This ensures that your Lua scripts remain secure, protecting them from unauthorized access and tampering.(beta version )
 
 ## Features
 
