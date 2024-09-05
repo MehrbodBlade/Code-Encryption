@@ -38,7 +38,7 @@ Ensure that you have Python installed on your system. This script requires Pytho
 
 2. **Run the Script**:
     ```bash
-    python lua_encryption.py
+    python encryption.py
     ```
     - You will be prompted to choose whether to encrypt or decrypt the files.
     - You will also be asked to provide a password that will be used for encryption/decryption.
