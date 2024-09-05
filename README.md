@@ -1,6 +1,6 @@
 # Code-Encrypt
 
-Lua-Encrypt is a robust Python tool designed to securely encrypt and decrypt Lua files using industry-standard AES-256 encryption. Protect your Lua scripts with strong encryption to prevent unauthorized access and modifications.(beta version )
+Code-Encryption is a robust Python tool designed to securely encrypt and decrypt Lua files using industry-standard AES-256 encryption. Protect your Lua scripts with strong encryption to prevent unauthorized access and modifications.(beta version )
 
 ## Features
 
@@ -22,7 +22,7 @@ Ensure that you have Python installed on your system. This script requires Pytho
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/MehrbodBlade/Lua-Encrypt.git
+    git clone https://github.com/MehrbodBlade/Code-Encryption.git
     cd Lua-Encrypt
     ```
 
