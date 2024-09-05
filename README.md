@@ -1,12 +1,12 @@
 # Code-Encrypt
 
-Code-Encryption is a robust Python tool designed to securely encrypt and decrypt Lua files using industry-standard AES-256 encryption. Protect your Lua scripts with strong encryption to prevent unauthorized access and modifications.(beta version )
+Code-Encryption is a robust Python tool designed to securely encrypt and decrypt files using industry-standard AES-256 encryption. Protect your scripts with strong encryption to prevent unauthorized access and modifications.(beta version )
 
 ## Features
 
-- **AES-256 Encryption**: Provides strong security for your Lua files.
+- **AES-256 Encryption**: Provides strong security for your files.
 - **Password-Based Encryption**: Uses a password provided by the user to generate an encryption key.
-- **Handles Multiple Files**: Easily encrypt or decrypt all Lua files within a directory.
+- **Handles Multiple Files**: Easily encrypt or decrypt all files within a directory.
 - **User-Friendly Interface**: Simple command-line interface for easy operation.
 
 
@@ -23,7 +23,7 @@ Ensure that you have Python installed on your system. This script requires Pytho
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/MehrbodBlade/Code-Encryption.git
-    cd Lua-Encrypt
+    cd Code-Encryption
     ```
 
 2. **Install Required Packages**:
@@ -33,8 +33,8 @@ Ensure that you have Python installed on your system. This script requires Pytho
 
 ## Usage
 
-1. **Prepare Your Lua Files**:
-    - Place the Lua files you want to encrypt or decrypt in the `input` directory.
+1. **Prepare Your Code Files**:
+    - Place the Code files you want to encrypt or decrypt in the `input` directory.
 
 2. **Run the Script**:
     ```bash
@@ -55,8 +55,8 @@ Enter the password for encryption/decryption: [YourPassword]
 ```
 ## Note 
 
-- Password Security: Ensure that you use a strong and unique password to enhance the security of your encrypted Lua files.
-- File Safety: Always back up your original Lua files before running encryption or decryption operations.
+- Password Security: Ensure that you use a strong and unique password to enhance the security of your encrypted Code files.
+- File Safety: Always back up your original Code files before running encryption or decryption operations.
 
 ## Contributing
 
